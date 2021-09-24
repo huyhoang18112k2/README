@@ -4,8 +4,8 @@
 ## I'm a Student at Hanoi University of Science and Techonology !!
 
 - 🔭 I have finished my first course: [Machine Learning][course]!
-- 🌱 I’m currently learning Artificial Intelligence and Control Engineering - Automation🤣
-- ⚡ Fun fact: I love basketball 
+- 🌱 I’m currently learning Artificial Intelligence and Control Engineering - Automation 💯
+- ⚡ Fun fact: I love basketball ️🏀
 
 ### Connect with me:
 

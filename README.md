@@ -1,7 +1,7 @@
 ### Hi there, I'm Huy Hoàng - aka [Albert][website] 👋
 
 
-## I'm a Student at Hanoi University of Science and Techonology !!
+## I'm a Sophomore at Hanoi University of Science and Techonology !!
 
 - 🔭 I have finished my first course: [Machine Learning][course]!
 - 🌱 I’m currently learning Artificial Intelligence and Control Engineering - Automation 💯

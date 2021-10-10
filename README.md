@@ -1,4 +1,4 @@
-### Hi there, I'm Huy Hoàng - aka [Albert][website] 👋
+### Hi there, I'm [Huy Hoàng][website] 👋
 
 
 ## I'm a Sophomore at Hanoi University of Science and Techonology !!

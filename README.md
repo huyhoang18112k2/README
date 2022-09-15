@@ -3,7 +3,7 @@
 
 ## I'm a Sophomore at Hanoi University of Science and Techonology !!
 
-- 🔭 I have finished 2 courses: [Machine Learning][course]! and [Deep Learning Specialization][course2]!
+
 - 🌱 I’m currently learning Artificial Intelligence and Control Engineering - Automation 💯
 - ⚡ Fun fact: I love basketball ️🏀
 

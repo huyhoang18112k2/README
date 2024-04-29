@@ -26,11 +26,11 @@
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huyhoang18112k2&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=splendor1811&show_icons=true&theme=radical)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huyhoang18112k2&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=splendor1811&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://www.linkedin.com/in/huy-ho%C3%A0ng-l%C3%AA-a34b3021b/

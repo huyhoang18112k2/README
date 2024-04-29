@@ -1,7 +1,7 @@
 ### Hi there, I'm [Huy Hoàng][website] 👋
 
 
-## I'm a final year students at Hanoi University of Science and Techonology !!
+## I'm a Senior student at Hanoi University of Science and Techonology !!
 
 
 - 🌱 I’m currently learning Artificial Intelligence and Control Engineering - Automation 💯

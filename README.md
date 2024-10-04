@@ -1,10 +1,10 @@
 ### Hi there, I'm [Huy Hoàng][website] 👋
 
 
-## I'm a Senior student at Hanoi University of Science and Techonology !!
+## I'm a AI Engineer at Panasonic R&D Center VietNam(PRDCV) !!
 
 
-- 🌱 I’m currently learning Artificial Intelligence and Control Engineering - Automation 💯
+- 🌱 My main interests are Artificial Intelligence, especially Large Language Models (LLMs), Multimodal Large Language Models (MLLMs), AI Agents, and Computer Vision. 💯
 - ⚡ Fun fact: I love basketball ️🏀
 
 ### Connect with me:
